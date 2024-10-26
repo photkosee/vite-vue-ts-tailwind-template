@@ -8,7 +8,7 @@
 
 ## How to use?
 
-[Create a new repository with this template](https://github.com/photkosee/vue-react18-ts-tailwind-template/generate)
+[Create a new repository with this template](https://github.com/photkosee/vite-vue-ts-tailwind-template/generate)
 
 Or clone this repository, then navigate to the project directory and run the following command to install all dependencies:
 
